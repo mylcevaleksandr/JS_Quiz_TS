@@ -60,21 +60,21 @@
     display: none
 }
 
-.choice .container  .choice__options_option-result{
+.choice .container .choice__options_option-result {
     position: absolute;
     z-index: 2;
     right: 18px;
     top: 16px;
     color: #6933DC;
     border: 1px solid #6933DC;
-    padding 5px;
+    padding: 5px;
     font-size: 12px;
-    line-height:14px;
+    line-height: 14px;
     background: white;
     text-align: center;
 }
 
-.choice__options_option-result div:first-child{
+.choice__options_option-result div:first-child {
     margin-bottom: 3px;
 }
 
